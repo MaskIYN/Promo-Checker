@@ -2,11 +2,10 @@
 
 This code specifies using the api endpoint to check if the "promotion" code provided by discord is valid or not.
 
-#how to start
 You need to have email verified discord tokens to use this code. Proceed with putting 1 token in "token" format in every line of data/tokens.txt (The more you put the better) This is a way to bypass discord rate limits by providing a token in authorization header. You then need to put all ur promo codes in input/codes.txt and run the code.
 Contact
 
-# discord
+# info
 Discord : Switch?#5026
 Discord : bypass#1001
 
